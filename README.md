@@ -71,9 +71,9 @@ Matplotlib is a versatile library for creating static, interactive, and animated
 
 ## Conclusion
 
-Thank you for visiting my Data Science Learning Repository! I hope you find the projects and exercises I've completed helpful in understanding the fundamentals of data science. I'm continually updating this repository with new projects and expanding my skills in the data science domain.
+Thank you for visiting my Data Science Learning Repository! I hope you find the topics I've completed helpful in understanding the fundamentals of data science. I'm continually updating this repository with new topics and expanding my skills in the data science domain.
 
-Feel free to explore the individual project directories for more details. If you have any questions or suggestions, please don't hesitate to contact me.
+Feel free to explore the individual topic directories for more details. If you have any questions or suggestions, please don't hesitate to contact me.
 
 Happy learning!
 
